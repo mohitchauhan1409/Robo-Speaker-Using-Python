@@ -13,4 +13,4 @@ Python3
 Clone the repository to your local machine
 
 ## Usage
-Run the program by typing the following command in the terminal: 'python3 Robo-Speaker-Using-Python.py'
+Run the program by typing the following command in the terminal: `python3 Robo-Speaker-Using-Python`
